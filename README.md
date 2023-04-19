@@ -17,6 +17,6 @@
      /ossssssss/        +ssssooo/-       Memory: 234MiB / 15984MiB
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/                   
+ `++:.                           `-/+/
  .`                                 `/ 
 ```
